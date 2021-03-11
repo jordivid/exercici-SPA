@@ -19,7 +19,7 @@
             Botiga
           </a>
           <div class="dropdown-menu">
-            <router-link to="/botiga/Botiga" class="dropdown-item">Botiga</router-link>
+            <router-link to="/botiga/Tienda" class="dropdown-item">Botiga</router-link>
             <router-link to="/botiga/Alimentacio" class="dropdown-item">Alimentació</router-link>
             <router-link to="/botiga/Congelats" class="dropdown-item">Congelats</router-link>
           </div>
